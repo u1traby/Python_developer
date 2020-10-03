@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d0e8e0a-1593-4f93-9e89-a9078e30de58" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lesson_001.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="5d0e8e0a-1593-4f93-9e89-a9078e30de58" name="Default Changelist" comment="lesson_001">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +21,36 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager">
+    <configuration name="os_info" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="[SkillBox] Python developer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_001" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_001/os_info.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.os_info" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -35,6 +61,66 @@
       <option name="presentableId" value="Default" />
       <updated>1601653953740</updated>
     </task>
+    <task id="LOCAL-00001" summary="lesson_001">
+      <created>1601654136227</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601654136227</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson_001" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson_001" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-960" y="36" key="CommitChangelistDialog2" timestamp="1601662424231">
+      <screen x="-1280" y="36" width="1280" height="994" />
+    </state>
+    <state x="-960" y="36" key="CommitChangelistDialog2/0.30.1920.1050/-1280.36.1280.994@-1280.36.1280.994" timestamp="1601662424231" />
+    <state x="480" y="40" key="CommitChangelistDialog2/0.30.1920.1050/-1280.36.1280.994@0.30.1920.1050" timestamp="1601654135244" />
+    <state x="946" y="378" key="FileChooserDialogImpl" timestamp="1601729995510">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="946" y="378" key="FileChooserDialogImpl/0.30.1920.1050/-1280.36.1280.994@0.30.1920.1050" timestamp="1601729995510" />
+    <state x="743" y="426" key="Github.ShareDialog" timestamp="1601654157435">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="743" y="426" key="Github.ShareDialog/0.30.1920.1050/-1280.36.1280.994@0.30.1920.1050" timestamp="1601654157435" />
+    <state width="1895" height="271" key="GridCell.Tab.0.bottom" timestamp="1601680707201">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1253" height="243" key="GridCell.Tab.0.bottom/0.30.1920.1050/-1280.36.1280.994@-1280.36.1280.994" timestamp="1601662411337" />
+    <state width="1895" height="271" key="GridCell.Tab.0.bottom/0.30.1920.1050/-1280.36.1280.994@0.30.1920.1050" timestamp="1601680707201" />
+    <state width="1895" height="271" key="GridCell.Tab.0.center" timestamp="1601680707200">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1253" height="243" key="GridCell.Tab.0.center/0.30.1920.1050/-1280.36.1280.994@-1280.36.1280.994" timestamp="1601662411337" />
+    <state width="1895" height="271" key="GridCell.Tab.0.center/0.30.1920.1050/-1280.36.1280.994@0.30.1920.1050" timestamp="1601680707200" />
+    <state width="1895" height="271" key="GridCell.Tab.0.left" timestamp="1601680707200">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1253" height="243" key="GridCell.Tab.0.left/0.30.1920.1050/-1280.36.1280.994@-1280.36.1280.994" timestamp="1601662411336" />
+    <state width="1895" height="271" key="GridCell.Tab.0.left/0.30.1920.1050/-1280.36.1280.994@0.30.1920.1050" timestamp="1601680707200" />
+    <state width="1895" height="271" key="GridCell.Tab.0.right" timestamp="1601680707200">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1253" height="243" key="GridCell.Tab.0.right/0.30.1920.1050/-1280.36.1280.994@-1280.36.1280.994" timestamp="1601662411337" />
+    <state width="1895" height="271" key="GridCell.Tab.0.right/0.30.1920.1050/-1280.36.1280.994@0.30.1920.1050" timestamp="1601680707200" />
+    <state x="596" y="197" width="1141" height="883" key="SettingsEditor" timestamp="1601729997254">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="185" y="75" key="SettingsEditor/0.30.1920.1050/-1280.36.1280.994@-1280.36.1280.994" timestamp="1601662479717" />
+    <state x="596" y="197" width="1141" height="883" key="SettingsEditor/0.30.1920.1050/-1280.36.1280.994@0.30.1920.1050" timestamp="1601729997254" />
+    <state x="92" y="122" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601729724446">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="92" y="122" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.30.1920.1050/-1280.36.1280.994@0.30.1920.1050" timestamp="1601729724446" />
+    <state x="600" y="73" width="720" height="963" key="find.popup" timestamp="1601729334748">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="600" y="73" width="720" height="963" key="find.popup/0.30.1920.1050/-1280.36.1280.994@0.30.1920.1050" timestamp="1601729334748" />
   </component>
 </project>
