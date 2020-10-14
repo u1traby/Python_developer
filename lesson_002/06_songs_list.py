@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 # Есть список песен группы Depeche Mode со временем звучания с точносттю до долей минут
 
 violator_songs_list = [
@@ -19,8 +16,8 @@ violator_songs_list = [
 #   Три песни звучат ХХХ минут
 # Обратите внимание, что делать много вычислений внутри print() - плохой стиль.
 # Лучше заранее вычислить необходимое, а затем в print(xxx, yyy, zzz)
-
-# TODO здесь ваш код
+all_3 = float(violator_songs_list[3][1] + violator_songs_list[5][1] + violator_songs_list[8][1])
+print("Три песни из списка звучат", round(all_3, 2), "минут")
 
 # Есть словарь песен группы Depeche Mode
 violator_songs_dict = {
@@ -37,5 +34,13 @@ violator_songs_dict = {
 
 # распечатайте общее время звучания трех песен: 'Sweetest Perfection', 'Policy of Truth' и 'Blue Dress'
 #   А другие три песни звучат ХХХ минут
-
-# TODO здесь ваш код
+song_1 = violator_songs_dict.get('Sweetest Perfection')
+song_2 = violator_songs_dict.get('Policy of Truth')
+song_3 = violator_songs_dict.get('Blue Dress')
+next_3 = float(song_1 + song_2 + song_3)
+print("Три песни из словаря звучат", round(next_3, 2), "минут")
+song_4 = violator_songs_dict.get('World in My Eyes')
+song_5 = violator_songs_dict.get('Waiting for the Night')
+song_6 = violator_songs_dict.get('Personal Jesus')
+next_next = float(song_4 + song_5 + song_6)
+print("А другие три песни из словаря звучат", round(next_next, 2), "минут")
